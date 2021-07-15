@@ -20,10 +20,10 @@ $ npm install
 $ npm start
 ```
 
-### 4. Create Admin User
+### 4. Admin User
 
-- Run this on chrome: http://localhost:5000/api/users/createadmin
-- It returns admin email and password
+- admin@example.com
+- 12345
 
 ### 5. Login
 
